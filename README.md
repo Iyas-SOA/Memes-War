@@ -13,7 +13,7 @@
 
 - Clone repo :
 ```
-https://github.com/Iyas-SOA/Memes-War.git
+git clone https://github.com/Iyas-SOA/Memes-War.git
 ```
 - Choose folder :
 ```
