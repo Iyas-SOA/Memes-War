@@ -4,42 +4,41 @@
   <img height="300" height="auto" src="https://github.com/SchoolOfAirdrop/Files/blob/main/photo_2024-11-24_03-14-44.jpg">
 </p>
 
-# Bot Features :
+## Bot Features :
 - Auto claim
 - Auto daily
 - Auto task
 
-# 🛠️ Instructions:
+## Setup & Configure :
 
-## REQUIREMENTS: NODEJS MUST BE INSTALLED
-
-Run the following command to install the necessary modules:
-
+- Clone repo :
+`https://github.com/Iyas-SOA/Memes-War.git`
+- Choose folder :
+`cd Memes-War`
+- Run :
 `npm install`
+- Configure your account :
+`data.txt`
+- Configure your proxy :
+`proxt.txt`
 
-Create two files: [data.txt](data.txt) and [proxy.txt](proxy.txt)
+## Setup data.txt :
+- Open bot app on browser
+- Inspect Element
+- Application
+- Session Storage
+- Copy query_id / user
 
-For those using multiple accounts, it's recommended to use a proxy (if using only one account, there's no need to create the proxy.txt file).
+## Format :
+- data.txt : `http://user:pass@ip:port`
+- proxy.txt : query_id=xxx / user=xxx
 
-# Proxy format:
+## Run the tool using the command :
 
-http://user:pass@ip:port
+- No proxy : `node meme.js`
+- Proxy:`node meme-proxy.js`
 
-# Get data:
-
-In the data.txt file, you need to have the following format:
-
-query_id=xxx or user=xxxx
-
-![Capture](https://github.com/user-attachments/assets/6db0b3ed-86fe-4cf7-b9c3-9dde4c0f2efb)
-
-
-# Run the tool using the command:
-
-noproxy:
-
-`node meme.js`
-
-proxy:
-
-`node meme-proxy.js`
+## Support me :
+- Telegram : https://t.me/schoolofairdrop
+- EVM : `0x4B67284e5d2BE6F98c0a773260e3FA046dd23B22`
+- Solana : `51L6bBpb2c4buj4iseohPtsJJ1ynebKi1S1T3FrLTfi2`
