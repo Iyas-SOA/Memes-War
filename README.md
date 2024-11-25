@@ -6,21 +6,31 @@
 
 ## Bot Features :
 - Auto claim
-- Auto daily
-- Auto task
+- Auto complete task
+- Support Proxy & Non Proxy
 
 ## Setup & Configure :
 
 - Clone repo :
-`https://github.com/Iyas-SOA/Memes-War.git`
+```
+https://github.com/Iyas-SOA/Memes-War.git
+```
 - Choose folder :
-`cd Memes-War`
+```
+cd Memes-War
+```
 - Run :
-`npm install`
+```
+npm install
+```
 - Configure your account :
-`data.txt`
+```
+data.txt
+```
 - Configure your proxy :
-`proxt.txt`
+```
+proxt.txt
+```
 
 ## Setup data.txt :
 - Open bot app on browser
@@ -30,12 +40,12 @@
 - Copy query_id / user
 
 ## Format :
-- data.txt : query_id=xxx / user=xxx
-- proxy.txt : http://user:pass@ip:port
+- proxy.txt : `http://user:pass@ip:port`
+- data.txt : `query_id=xxx / user=xxx`
 
 ## Run the tool using the command :
 - No proxy : `node meme.js`
-- Proxy:`node meme-proxy.js`
+- Proxy: `node meme-proxy.js`
 
 ## Support me :
 - Telegram : https://t.me/schoolofairdrop
