@@ -1,13 +1,13 @@
+# Memes War
 
-![photo_2024-11-07_13-38-54](https://github.com/user-attachments/assets/f5db8dff-cd4d-4b5d-9e7d-caeade083845)
+<p align="center">
+  <img height="300" height="auto" src="https://github.com/SchoolOfAirdrop/Files/blob/main/photo_2024-11-24_03-14-44.jpg">
+</p>
 
-
-✔️ Auto claim
-
-✔️ Auto daily
-
-✔️ Auto task
-
+# Bot Features :
+- Auto claim
+- Auto daily
+- Auto task
 
 # 🛠️ Instructions:
 
