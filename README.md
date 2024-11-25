@@ -30,11 +30,10 @@
 - Copy query_id / user
 
 ## Format :
-- data.txt : http://user:pass@ip:port
-- proxy.txt : query_id=xxx / user=xxx
+- data.txt : query_id=xxx / user=xxx
+- proxy.txt : http://user:pass@ip:port
 
 ## Run the tool using the command :
-
 - No proxy : `node meme.js`
 - Proxy:`node meme-proxy.js`
 
