@@ -30,7 +30,7 @@
 - Copy query_id / user
 
 ## Format :
-- data.txt : `http://user:pass@ip:port`
+- data.txt : http://user:pass@ip:port
 - proxy.txt : query_id=xxx / user=xxx
 
 ## Run the tool using the command :
